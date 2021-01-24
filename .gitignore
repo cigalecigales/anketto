@@ -13,3 +13,5 @@ yarn-error.log*
 # build
 build
 dist
+# other
+.DS_Store
