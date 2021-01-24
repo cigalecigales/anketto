@@ -27,7 +27,7 @@ $ yarn start
 
 2. Please write questions. This is a sample.
 
-```json
+```js
 {
   "title": "Sample Questions", // presentation's title
   "questions": [
