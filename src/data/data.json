@@ -1,0 +1,43 @@
+{
+  "title": "Sample Questions",
+  "questions": [
+    {
+      "type": "bar-graph",
+      "title": "What food do you like ?",
+      "maxSelectableCount": 1,
+      "selections": [
+        {
+          "selection": "sushi",
+          "color": "#5bc8ac"
+        },
+        {
+          "selection": "pasta",
+          "color": "#e6d72a"
+        },
+        {
+          "selection": "bento",
+          "color": "#f18d9e"
+        }
+      ]
+    },
+    {
+      "type": "bar-graph",
+      "title": "What fruit do you like ?",
+      "maxSelectableCount": 2,
+      "selections": [
+        {
+          "selection": "orange",
+          "color": "#5bc8ac"
+        },
+        {
+          "selection": "peach",
+          "color": "#e6d72a"
+        },
+        {
+          "selection": "strawberry",
+          "color": "#f18d9e"
+        }
+      ]
+    }
+  ]
+}

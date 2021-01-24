@@ -1,0 +1,9 @@
+.title {
+  font-size: 5.0rem;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
